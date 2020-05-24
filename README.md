@@ -1,5 +1,5 @@
 # Analisador de Processos Jurídicos
-API desenvolvida com foco no desafio-problema sugerido pela empresa Optimum
+API que analisa via scrapping arquivos html especificos com processos jurídicos
 
 ## Tecnologias Utilizadas:
 - Python 3.6.9
